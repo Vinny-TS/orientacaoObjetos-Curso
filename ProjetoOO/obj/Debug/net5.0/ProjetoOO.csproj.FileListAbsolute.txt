@@ -1,0 +1,16 @@
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\bin\Debug\net5.0\ProjetoOO.exe
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\bin\Debug\net5.0\ProjetoOO.deps.json
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\bin\Debug\net5.0\ProjetoOO.runtimeconfig.json
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\bin\Debug\net5.0\ProjetoOO.runtimeconfig.dev.json
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\bin\Debug\net5.0\ProjetoOO.dll
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\bin\Debug\net5.0\ref\ProjetoOO.dll
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\bin\Debug\net5.0\ProjetoOO.pdb
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\obj\Debug\net5.0\ProjetoOO.csproj.AssemblyReference.cache
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\obj\Debug\net5.0\ProjetoOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\obj\Debug\net5.0\ProjetoOO.AssemblyInfoInputs.cache
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\obj\Debug\net5.0\ProjetoOO.AssemblyInfo.cs
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\obj\Debug\net5.0\ProjetoOO.csproj.CoreCompileInputs.cache
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\obj\Debug\net5.0\ProjetoOO.dll
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\obj\Debug\net5.0\ref\ProjetoOO.dll
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\obj\Debug\net5.0\ProjetoOO.pdb
+E:\ETE 2021\CG\OriOBJ\orientacaoObjetos-Curso\ProjetoOO\obj\Debug\net5.0\ProjetoOO.genruntimeconfig.cache
